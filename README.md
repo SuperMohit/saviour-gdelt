@@ -65,9 +65,6 @@ https://colab.research.google.com/drive/1lx9AGsrh7MlyJhK9UrNTK8pYpARnx457?usp=sh
 
 2. https://compvis.github.io/taming-transformers/
 
-# Generated AI art IDs for PoC:
-1. 1037207925
-2. 20220401151500
 
 # Solana Transaction search:
 1. https://explorer.solana.com/
