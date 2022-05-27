@@ -1,12 +1,22 @@
 [
     {
-        "route": "/nfts",
+        "route": "/news",
         "http_method": "GET",
-        "function_name": "fetchAllNFTs",
+        "function_name": "fetch_news",
         "validation_method": "NO_VALIDATION",
         "respond_result": true,
-        "fetch_custom_user_data": true,
-        "create_user_on_auth": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    },
+    {
+        "route": "/latest",
+        "http_method": "GET",
+        "function_name": "fetch_latest",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
         "disabled": false
     }
 ]
