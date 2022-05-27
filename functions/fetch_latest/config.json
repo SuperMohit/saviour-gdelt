@@ -1,0 +1,7 @@
+{
+    "id": "6276a9e88b017e7d3e3bae7c",
+    "name": "fetch_latest",
+    "private": false,
+    "run_as_system": true,
+    "disable_arg_logs": true
+}
