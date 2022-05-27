@@ -8,10 +8,11 @@
     <img alt="Twitter: SolmanEd" src="https://img.shields.io/twitter/follow/SolmanEd.svg?style=social" />
   </a>
 </p>
+Saviour is an NFT platform which relies on GDELT data set to fetch socailly relevant news, so that people can trade those NFTs and certain percentage from proceeds of those NFTs go to the charity or targeted social help groups. This can be extended to any other domain. 
+For instance: A politician in North Sudan, worked for improving access to basic primary education. Saviour can generate a NFT token and market participant can mint the tokens and the proceeds get directed to the cause. 
+For instance, The War(Ukraine war) is an catastrophic incident, based on Gdelt we can find which areas of the world need humanitarian assistance and airdrop the NFTs to help the war affected. The % of mints goes to support people in those areas.
+Another example could be : A rape incident in the state of Portugal, Saviour can again generate the NFT based on gdelt data and the proceeds from NFT can be used for rehabilitation and providing the justice to the affected. 
 
-For example: A politician in North Sudan, worked for improving access to basic primary education. Saviour can generate a NFT token and market participant can mint the tokens and the proceeds get directed to the cause. 
-For instance, The War(Ukraine war) is an anemic incident, based on Gdelt we can find which areas of the world need humanitarian assistance and airdrop the NFTs to help the war affected.
-For example: A rape incident in the state of Portugal, Saviour can again generate the NFT based on gdelt data and the proceeds from NFT can be used for rehabilitation and providing the justice to the affected. 
 This project would also become an eventual DB for Social Workers, Politicians, Global leaders, NGOs, etc, regarding their positive social contribution decided by market dynamics. Fo instance, a politician is involved in great many social intitiative would generate higher premiums on the sale of NFTs. 
 
 ### 🏠 [Homepage](https://solman-bxwop.mongodbstitch.com/)
