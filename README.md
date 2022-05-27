@@ -15,9 +15,9 @@ Another example could be : A rape incident in the state of Portugal, Saviour can
 
 This project would also become an eventual DB for Social Workers, Politicians, Global leaders, NGOs, etc, regarding their positive social contribution decided by market dynamics. Fo instance, a politician is involved in great many social intitiative would generate higher premiums on the sale of NFTs. 
 
-### 🏠 [Homepage]([https://saviour-ui-avjoa.mongodbstitch.com/])
+### 🏠 [Homepage](https://saviour-ui-avjoa.mongodbstitch.com/)
 
-### ✨ [Demo]([https://saviour-ui-avjoa.mongodbstitch.com/])
+### ✨ [Demo](https://saviour-ui-avjoa.mongodbstitch.com/)
 
 
 ## Install
